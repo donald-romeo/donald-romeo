@@ -1,6 +1,6 @@
-# :wave: Hello, I'm James Gates.
+# :wave: Hello, I'm Donald Romeo.
 
-I'm James, **Senior Full Stack Developer** & **SEO Expert** working remotely since 2022 :rocket:
+I'm Donald, **Senior Full Stack Developer** & **SEO Expert** working remotely since 2022 :rocket:
 
 ## About me
 
